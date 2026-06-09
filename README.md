@@ -1,3 +1,4 @@
+![Sistem Pakar](Preview_Sistem_Pakar.png)
 # Sistem Pakar Diagnosis Penyakit Kulit
 
 Sistem pakar berbasis Python dan Streamlit yang digunakan untuk melakukan diagnosis awal penyakit kulit menggunakan metode **Forward Chaining**. Sistem bekerja dengan mencocokkan gejala yang dipilih pengguna terhadap basis aturan (rule base) untuk menghasilkan kemungkinan diagnosis penyakit.
